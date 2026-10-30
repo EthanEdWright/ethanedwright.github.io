@@ -1,5 +1,5 @@
 layout: page
 title: "Test"
-permalink: /test
+permalink: https://ethanedwright.github.io/test
 
 # Test Page!
